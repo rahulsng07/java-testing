@@ -14,7 +14,7 @@ Implementing Poll SCM
 
 Trying to implement github hook trigger...
 Testing poll SCM
-add webhooks for local
+add webhooks for local testing
 
 
 
